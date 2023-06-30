@@ -1,0 +1,336 @@
+body
+{
+width: 100%;
+max-width: auto;	
+background-color:#E1E1E1; /* Фон страницы */
+margin:0 auto;
+padding: 0;
+}
+  
+
+  
+.image{
+width: 100%;
+max-width: auto; 
+height:800px;
+background-size:cover;
+ padding:0;
+margin:0 auto;
+}
+.c{
+width:100px; 
+height:100px;
+ position: absolute; top: 20px; right: 660px;
+
+
+}
+.m {
+color: white;
+position: relative;
+font-family: Comic Sans MS;	
+margin:0 auto;
+    padding: 20px; /* Значение полей */
+padding-top:50px;
+float: left;	
+   }
+.m li {
+position: relative;
+display: inline; /* Отображать как строчный элемент */
+padding-left:80px;
+float: left;
+   }
+   
+.v {
+color: white;
+font-family: Comic Sans MS;	
+margin:0 auto;
+   padding: 20px; /* Значение полей */
+padding-top:50px;
+ float: right;
+ }
+.v li {
+position: relative;
+display: inline; /* Отображать как строчный элемент */
+padding-right:80px;
+float: right; 
+   }
+  .e{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size:50px;	
+position: relative; 
+top: 200px;
+ text-align: center; 
+  }
+    .d{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size:50px;	
+position: relative; 
+ top: 230px;
+  text-align: center; 
+  }
+.bi {
+    color: white; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+.bi:hover {
+    color: red; /* Цвет ссылки при наведении на нее курсора мыши */  
+   }
+.bin {
+    color: white; /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+   }
+.bin:hover {
+    color: red; /* Цвет ссылки при наведении на нее курсора мыши */  
+   }  
+ .p{
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+font-size:20px;	
+position: relative; 
+top: 400px;	
+ text-align: center; 
+ }
+ .s{
+width:1520px; 
+height:800px;
+background-size:cover;
+ padding:0;
+margin:0 auto;
+ }
+ .x{
+font-family: Calibri Light;
+font-size:50px;	
+text-align: center; 
+font-weight: bold;
+ }
+ .u{
+font-family: Calibri Light;
+font-size:30px;
+font-weight: bold;
+text-decoration: underline;
+text-align: center; 
+ }
+ .f{
+width:1520px; 
+height:2170px;
+background-size:cover;
+ padding:0;
+margin:0 auto; 
+ }
+
+ .l{
+text-align: center; 
+font-family: Calibri Light;
+font-size:30px; 
+ }
+ .y{
+font-family: Calibri Light;
+font-size:50px;
+font-weight: bolder;
+text-align: center;
+position: relative; 
+padding-top: 40px; 
+ }
+.r{
+text-align: center; 
+font-family: Calibri Light;
+font-size:30px;	
+}
+.w{
+font-family: Arial;
+font-size:30px;
+font-weight: bolder;
+position: relative; 
+left: 800px; top: 60px;	
+}
+.z{
+font-family: Calibri Light;
+font-size:20px;
+line-height: 1.5;
+position: relative; 
+left: 800px; top: 60px;	
+}
+.k{
+font-family: Calibri Light;
+font-size:20px;
+position: relative; 
+left: 800px; top: 60px;	
+text-decoration: underline;	
+}
+.t{
+font-family: Calibri Light;
+font-size:20px;
+ line-height: 1.5;
+position: relative; 
+left: 800px; top: 60px;	
+}
+.q{
+width:450px; 
+height:300px;
+position: absolute; left: 290px; top: 2000px;	
+}
+button{
+	font-family: Comic Sans MS;
+	background: black;
+	color: #fff;
+	font-size:15px;
+	border-width: 0;
+	padding: 10px 15px;
+	margin: 20px 0;
+	border-radius: 50px;
+	cursor: pointer;
+	outline: none;
+	width:300px;
+height:50px;
+position: relative; 
+left: 800px; top: 50px;
+}
+button:hover {
+    color: red; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }
+.win{
+font-family: Arial;
+font-size:30px;
+font-weight: bolder;
+position: relative; 
+left: 800px; top: 70px;	
+}
+.zin{
+font-family: Calibri Light;
+font-size:20px;
+ line-height: 1.5;
+position: relative; 
+left: 800px; top: 70px;	
+}
+.kin{
+font-family: Calibri Light;
+font-size:20px;
+position: relative; 
+left: 800px; top: 70px;	
+text-decoration: underline;	
+}
+.tin{
+font-family: Calibri Light;
+font-size:20px;
+ line-height: 1.5;
+position: relative; 
+left: 800px; top: 70px;	
+}
+.j{
+width:450px; 
+height:300px;
+position: absolute; left: 290px; top: 2650px;	
+}
+.wini{
+font-family: Arial;
+font-size:30px;
+font-weight: bolder;
+position: relative; 
+left: 800px; top: 70px;	
+}
+.zini{
+font-family: Calibri Light;
+font-size:20px;
+ line-height: 1.5;
+position: relative; 
+left: 800px; top: 70px;	
+}
+.kini{
+font-family: Calibri Light;
+font-size:20px;
+position: relative; 
+left: 800px; top: 70px;	
+text-decoration: underline;	
+}
+.tini{
+font-family: Calibri Light;
+font-size:20px;
+ line-height: 1.5;
+position: relative; 
+left: 800px; top: 70px;	
+}
+.r{
+width:450px; 
+height:300px;
+position: absolute; left: 290px; top: 3300px;	
+}
+.ima{
+
+height:700px;
+background-size:cover;
+text-align: center; 
+margin:0 auto;
+}
+.ei{
+color: white;
+font-family:  Calibri Light;
+font-size:45px;	
+position: relative; top: 20px;
+text-align: center; 
+  }
+   .pi{
+color: white;
+font-family:  Calibri Light;
+font-size:20px;	
+position: relative; top: 50px;
+text-align: center;	 
+ }
+ .bon{
+	font-family: Comic Sans MS;
+	background: red;
+	color: #fff;
+	font-size:15px;
+	border-width: 0;
+	padding: 10px 15px;
+	margin: 20px 0;
+	border-radius: 50px;
+	cursor: pointer;
+	outline: none;
+	width:500px;
+height:50px;
+position: relative; 
+left: 0px; top: 50px;
+}
+.bon:hover {
+    color: black; /* Цвет ссылки при наведении на нее курсора мыши */  
+    text-decoration: underline; /* Добавляем подчеркивание */
+   }	
+
+   
+::placeholder { 
+    color: grey;
+	font-family:  Calibri Light;
+	font-size: 15px;
+    opacity: 1; 
+}
+.form{
+position: relative; 
+top: 70px;	
+font-size: 40px;
+
+}
+
+.ed
+{
+    width:500px;
+	height:50px;
+	border-radius: 10px;
+	padding-left:10px;
+}
+.nan{
+color: white;
+font-family:  Calibri Light;
+font-size:25px;	
+position: relative; top: 20px;
+text-align: center;	
+}
+.man{
+
+height:250px;
+background-color:black;
+ padding:0;
+margin:0 auto;
+}
